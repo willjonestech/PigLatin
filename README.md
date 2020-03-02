@@ -1,1 +1,1 @@
-# PigLatin
+# Basics Pig Latin translator in Python
